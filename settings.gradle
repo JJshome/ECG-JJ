@@ -1,0 +1,3 @@
+rootProject.name = 'ECG-Buddy'
+include 'app'
+include 'server'
